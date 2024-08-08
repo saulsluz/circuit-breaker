@@ -17,8 +17,8 @@
         }
     },
     "require": {
-        "php": ">=7.4.0",
-        "symfony/options-resolver": "^4.4|^5.3",
+        "php": ">=7.2.0",
+        "symfony/symfony": "^4.4|^5.3",
         "symfony/event-dispatcher": "^4.4|^5.3",
         "symfony/cache": "^4.4|^5.3"
     },
